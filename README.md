@@ -1,2 +1,2 @@
 # rocketseat
-Cursos da Rocketseat
+Curso Basico de JavaScript!
